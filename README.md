@@ -1,2 +1,5 @@
 # hello-world
-just another repository
+
+Hello Peeps!
+
+My name is Kristin. I like Ice Cream, Soccer, and Learning Cool Things!
